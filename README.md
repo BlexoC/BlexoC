@@ -50,7 +50,7 @@ I'm a full-stack developer who cares more about *how* a system is put together t
 | **Donation Platform** | Web app handling donor flows and record-keeping end to end |
 | **E-Commerce Site** | Full storefront build covering product management, cart, and checkout logic |
 
-*Portfolio site — in progress, dropping soon.*
+*Portfolio site — https://the-view-7ypu.vercel.app/*
 
 ---
 
